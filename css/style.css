@@ -1,0 +1,41 @@
+.no-margin {
+  margin: 0;
+  padding: 0;
+}
+.block {
+  height: 50px;
+}
+
+.block-eye {
+  border-radius: 100px;
+  height: 5.5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.logo-img {
+  max-height: 64px;
+}
+[type="checkbox"]+label {
+  height: 16px;
+}
+
+.background-img {
+  background-image: url(back2.png);
+  background-size: cover;
+}
+
+.back-btn {
+  margin-left: 10px;
+}
+
+.lh-0 {
+  line-height: 0;
+}
+
+.back-img {
+  background-image: url(../bck.png);
+  background-size: cover;
+}
